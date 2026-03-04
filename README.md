@@ -10,7 +10,7 @@
 
 <h2>👨🏻‍💻 Sobre mim</h2>
 
-Meu nome é Nicolas Marraie e sou estudante de Engenharia da Computação movido por desafios e aprendizado contínuo.
+Sou estudante de Engenharia da Computação movido por desafios e aprendizado contínuo.
 
 Minha trajetória começou na engenharia com projetos de Arduino e sistemas embarcados. Durante a pandemia, investi em meu próprio laboratório pessoal para continuar evoluindo, onde desenvolvi meu primeiro robô seguidor de linha — projeto que consolidou meu interesse por programação.
 
