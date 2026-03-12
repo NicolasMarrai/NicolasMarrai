@@ -110,7 +110,7 @@ Busco minha primeira oportunidade formal na área de TI para:
 
 <h2>📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasMarrai&show_icons=true&theme=dracula&show=reviews,prs_merged,prs_merged_percentage&hide=commits,prs,issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasMarrai&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&locale=pt-br&title_color=6ec1ff&text_color=cfe8ff&icon_color=38bdf8&border_color=3b82f6&ring_color=60a5fa&bg_color=35,0b1220,0f1b33,1d4ed8)
 
 ---
 
